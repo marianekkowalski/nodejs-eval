@@ -16,3 +16,4 @@ if (element) {
     funcs[1](arr[0]);
     funcs[2](arr[0]);
 }
+// comment
